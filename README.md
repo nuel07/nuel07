@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuel07
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning software engineering with ALX-Africa
 - 💞️ I’m looking to collaborate on cloud native development
 - 📫 How to reach me -- yehanganep@gmail.com
 
