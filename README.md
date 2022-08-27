@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Promise.
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning software engineering with ALX-Africa
+- 👀 I’m a backend and Devops engineer with the ROOM
 - 💞️ I’m looking to collaborate on cloud native development
 - 📫 How to reach me -- yehanganep@gmail.com
 
