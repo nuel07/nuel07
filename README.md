@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Promise.
-- 👀 I’m a Full stack software engineer with the ROOM
-- 💞️ I’m looking to collaborate on cloud native development
+- 👀 I’m a Full stack software engineer
+- 💞️ You can learn more about me [here](https://nuel-promise.netlify.app)
 - 📫 How to reach me -- yehanganep@gmail.com
 
 <!---
